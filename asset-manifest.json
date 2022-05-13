@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tienda/static/css/main.143df15f.css",
+    "main.js": "/tienda/static/js/main.a5ecc8e5.js",
+    "static/js/787.7aa0ccc9.chunk.js": "/tienda/static/js/787.7aa0ccc9.chunk.js",
+    "static/media/mario.png": "/tienda/static/media/mario.91bd54193e017319fc50.png",
+    "static/media/logo1.png": "/tienda/static/media/logo1.7aa14fd8e1c2ce96b34e.png",
+    "index.html": "/tienda/index.html",
+    "main.143df15f.css.map": "/tienda/static/css/main.143df15f.css.map",
+    "main.a5ecc8e5.js.map": "/tienda/static/js/main.a5ecc8e5.js.map",
+    "787.7aa0ccc9.chunk.js.map": "/tienda/static/js/787.7aa0ccc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143df15f.css",
+    "static/js/main.a5ecc8e5.js"
+  ]
+}
