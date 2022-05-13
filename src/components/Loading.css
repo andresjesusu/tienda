@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;700&display=swap');
+
+.divPadre{
+    height: 100vh;
+    position: relative;
+}
+
+.divHijo {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.spinnerReactstrap {
+    width: 100px !important;
+    height: 100px !important;
+
+    border:10px solid currentColor !important;
+    border-right-color: transparent !important;
+}
+
+.navBarC{
+    background-color: #E60012 !important;
+    
+}
+
+/* .bodyImagen {
+
+background-image: url(./mario.png);
+background-repeat: no-repeat;
+background-position: 300px;
+background-position-x: 20px;
+background-position-y: 650px;
+background-color: #eccfd2;
+} */
+
+.bienvenidosH {
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 540;
+}
+
+.body1{
+background-image: url(./mario.png);
+background-repeat: no-repeat;
+background-position: 300px;
+background-position-x: 20px;
+background-position-y: 650px;
+}

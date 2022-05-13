@@ -1,0 +1,18 @@
+.main-footer{
+    margin-top: 30px;
+    color:white;
+    background-color: #E60012;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
